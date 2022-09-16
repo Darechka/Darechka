@@ -1,6 +1,6 @@
 ### Hello everyone, I'm Darya 👋
 
-I'm a Junior QA Engineer looking for my first job in the IT world. I'm a perfectionist and quality means a lot to me, so when I started to think about switching to the IT field, the choice of the specialisation was quite obvious for me.
+I'm a Junior QA Engineer looking for my first job in the IT world. I'm a perfectionist and quality means a lot to me, so when I started to think about switching to the IT field, the choice of the specialisation was quite obvious to me.
 I've successfully completed Software Testing course by IT-Academy, and I also took open classes in QA by Vadim Ksendzow and Mikhail Portnov.
 Besides, I've been learning a lot on my own with the help of books, articles, educational platforms and tutorial vidoes on YouTube.
 
