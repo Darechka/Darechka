@@ -3,7 +3,7 @@
 I'm a Junior QA Engineer looking for my first job in the IT world. I'm a perfectionist and quality means a lot to me, so when I started to think about switching to the IT field, the choice of the specialisation was quite obvious to me.
 
 I've successfully completed Software Testing course by IT-Academy, and I also took open classes in QA by Vadim Ksendzov and Mikhail Portnov.
-Besides, I've been learning a lot on my own with the help of books, articles, educational platforms and tutorial vidoes on YouTube.
+Besides, I've been learning a lot on my own with the help of books, articles, educational platforms and tutorial videos on YouTube.
 
 I'm also very interested in web development, and can already create simple web pages. For instance, take a look at my [CV](https://darechka.github.io/qa-engineer-cv/) :relaxed:
 
